@@ -1,2 +1,0 @@
-# HistoryView
-Created with CodeSandbox

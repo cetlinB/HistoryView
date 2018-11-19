@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.HistoryView {
+  border: 1em;
+  padding: 1em;
+}
+
+.data_view {
+  border-top-left-radius: 5pt;
+  /*border-top-right-radius: 5pt;*/
+  border-bottom-left-radius: 5pt;
+  /*border-bottom-right-radius: 5pt; */
+  background: gray;
+  width: 30%;
+  height: 70%;
+}
